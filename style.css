@@ -91,6 +91,7 @@ body {
   margin: 1rem auto;
   font-size: x-large;
   font-weight: 500;
+  font-weight: bold;
 }
 
 th,
@@ -117,12 +118,9 @@ footer p {
 }
 
 a,
-img,
+
 li {
   display: inline;
 }
 
-img {
-  width: 40px;
-  padding: 0.2rem;
-}
+
