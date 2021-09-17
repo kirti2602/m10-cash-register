@@ -47,3 +47,14 @@ function showMessage(msg) {
 
   }
 }
+
+
+//couldn't do the bonus one
+// if(billAmount.value == ''){
+//     cashGiven.style.color = "white"
+// }
+
+// setTimeout(1000, function(){
+//     cashGiven.style.color = "black"
+// })
+
